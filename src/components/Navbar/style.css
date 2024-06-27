@@ -1,0 +1,17 @@
+.NavBar {
+    height: 100%;
+    width: 150px;
+    background-color: #ffffff;
+}
+
+.NavBar-list {
+    padding: 5px;
+}
+
+
+.NavBar-list-itens {
+    display: flex;
+    list-style: none;
+    margin-bottom: 5px;
+    padding: 5px;
+}
